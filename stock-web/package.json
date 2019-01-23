@@ -1,13 +1,13 @@
 {
   "name": "web",
   "version": "1.0.0",
-  "description": "ganpai web",
+  "description": "stock web",
   "scripts": {
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@code.csdn.net:bosspeng1213/ganpai.git"
+    "url": "https://github.com/bosspen1/stock.git"
   },
   "keywords": [
     "web",
